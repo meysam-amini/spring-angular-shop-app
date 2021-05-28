@@ -1,7 +1,9 @@
 # An Ecommerce Web App With SpringBoot Backend and AngularJs Front  
 
-## for running spring-boot project, cd to project directory and run:
-  mvn org.springframework.boot:spring-boot-maven-plugin:run
+## for running spring-boot projec:
+1.create mySql DB and tables based on DB_Scripts
+2.cd to project directory
+3.mvn org.springframework.boot:spring-boot-maven-plugin:run
 
 ## for bring up angular front:
 1. go to project directory
