@@ -1,4 +1,4 @@
-# An Ecommerce Web App With SpringBoot Backend and AngularJs Front  
+## An Ecommerce Web App With SpringBoot Backend and AngularJs Front  
 
 ## for running spring-boot project:
 1. create mySql DB and tables based on DB-Scripts
