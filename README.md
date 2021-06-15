@@ -8,6 +8,6 @@
 ## for bring up angular front:
 1. go to project directory
 2. npm-install
-3. ng-serve --open
+3. ng serve --open
 
 
